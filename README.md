@@ -1,1 +1,1 @@
-# aks-interviews
+# aks-learnings
