@@ -1,4 +1,4 @@
-package com.aks.interviews.trees.quad;
+package com.aks.learnings.trees.quad;
 
 public class QuadTreeTest {
 
